@@ -1,0 +1,10 @@
+{
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "livePreview": false
+}

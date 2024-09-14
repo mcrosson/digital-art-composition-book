@@ -1,0 +1,14 @@
+{
+  "outputDirectory": "",
+  "templateFilename": "{{title}}",
+  "inputFieldList": "",
+  "textReplacementTemplates": [
+    ""
+  ],
+  "templateDirectory": "_Templates",
+  "replaceSelection": "always",
+  "createOpen": "open-tab",
+  "inputSplit": "",
+  "inputSuggestions": true,
+  "config": "[]"
+}
