@@ -6,6 +6,10 @@ Digital art may be 'rigid' and 'not notebook friendly' but this Obsidian vault c
 
 Please see the `__Dashboard.md` file for additional detail.
 
+## How To Download The Files As A ZIP
+
+![How to download](Notes/attachments/downloading.png)
+
 ## Screenshots
 
 ### Main Vault View
