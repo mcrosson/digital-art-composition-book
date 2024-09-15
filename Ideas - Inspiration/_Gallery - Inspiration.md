@@ -1,7 +1,7 @@
 
 ~~~~note-gallery
 debugQuery: true
-query: 'path: Ideas - Inspiration/ -path: Ideas - Inspiration/attachments/ tag:#inspiration'
+query: 'path: "Ideas - Inspiration/" -path: "Ideas - Inspiration/attachments/" tag:#inspiration'
 recursive: true
 sort: asc
 sortBy: name

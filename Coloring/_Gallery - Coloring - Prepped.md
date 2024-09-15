@@ -2,7 +2,7 @@
 ~~~~note-gallery
 query: 'path: Coloring/Prepped/ tag:#prepped'
 recursive: true
-sort: desc
+sort: asc
 sortBy: name
 showTitle: true
 breakpoints:

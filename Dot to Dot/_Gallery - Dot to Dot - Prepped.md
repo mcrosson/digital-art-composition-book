@@ -1,8 +1,8 @@
 
 ~~~~note-gallery
-query: 'path: Dot to Dot/Prepped/'
+query: 'path: "Dot to Dot/Prepped/" tag:#prepped'
 recursive: true
-sort: desc
+sort: asc
 sortBy: name
 showTitle: true
 breakpoints:

@@ -1,8 +1,8 @@
 
 ~~~~note-gallery
-query: 'path: Drawing/Practice/'
+query: 'path: Drawing/Practice/ tag:#practice'
 recursive: true
-sort: desc
+sort: asc
 sortBy: name
 showTitle: true
 breakpoints:

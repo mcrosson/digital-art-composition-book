@@ -1,8 +1,8 @@
 
 ~~~~note-gallery
-query: 'path: Zentangle/_ZIA/ -path: Zentangle/_ZIA/attachments/'
+query: 'path: Zentangle/_ZIA/ -path: Zentangle/_ZIA/attachments/ (tag:#zia OR tag:#zentangle-inspired-art)'
 recursive: true
-sort: asc
+sort: desc
 sortBy: name
 showTitle: true
 breakpoints:

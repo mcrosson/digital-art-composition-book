@@ -1,8 +1,8 @@
 
 ~~~~note-gallery
-query: '(path: Coloring/Complete OR path: Drawing/Complete OR path: Zentangle/_ZIA OR path: Dot to Dot/Complete) tag:#favorite'
+query: '(path: Coloring/Complete/ OR path: "Dot to Dot/Complete/" OR path: Drawing/Complete/ OR path: Zentangle/_ZIA/) tag:#favorite'
 recursive: true
-sort: desc
+sort: asc
 sortBy: name
 showTitle: true
 breakpoints:

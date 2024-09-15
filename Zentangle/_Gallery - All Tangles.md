@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Tangles/ tag:#tangle'
+query: 'path: Zentangle/Tangles/ tag:#tangle'
 recursive: true
 sort: asc
 sortBy: name

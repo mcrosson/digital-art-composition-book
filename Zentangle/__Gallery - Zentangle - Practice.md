@@ -1,7 +1,7 @@
 
 ~~~~note-gallery
 debugQuery: true
-query: 'path: Zentangle/Practice/ -path: Zentangle/Practice/attachments/'
+query: 'path: Zentangle/Practice/ -path: Zentangle/Practice/attachments/ tag:#practice'
 recursive: true
 sort: asc
 sortBy: name

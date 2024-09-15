@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Dot to Dot/Complete/ -path: Dot to Dot/Complete/attachments/'
+query: 'path: "Dot to Dot/Complete/" -path: "Dot to Dot/Complete/attachments/"'
 recursive: true
 sort: desc
 sortBy: name

@@ -1,8 +1,8 @@
 
 ~~~~note-gallery
-query: 'path: Drawing/In Progress/'
+query: 'path: Drawing/In Progress/ tag:#in-progress'
 recursive: true
-sort: desc
+sort: asc
 sortBy: name
 showTitle: true
 breakpoints:
