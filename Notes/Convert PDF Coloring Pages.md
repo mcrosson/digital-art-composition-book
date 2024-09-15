@@ -5,6 +5,14 @@ created_at: "2023-02-17"
 source: "KemoNine Blog"
 ---
 
+## Important Note
+
+Krita can natively import PDFs with each page as a layer. You can simply open the PDF within Krita and then cut/copy/paste each later into a new image as appropriate or work with them as a single image.
+
+The above approch with Krita can be significantly easier and less fiddly than the below.
+
+## The original blog post...
+
 If you have access to `imagemagick` you can quickly convert a PDF coloring page(s) to grayscale PNG using the below procedure and notes.
 
 
