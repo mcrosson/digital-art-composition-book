@@ -12,6 +12,7 @@ title: "{{title:text:the_source_filename}}"
 created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
 started_date: "yyyy-mm-dd"
 completed_date: "yyyy-mm-dd"
+source: "{{source}}"
 ---
 ## To Do 
 - [ ] Cleanup tags
