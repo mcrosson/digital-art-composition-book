@@ -96,6 +96,7 @@ The creator of this Obsidian vault has **NOT** included any source materials or 
 
 - #to-practice
 - #in-progress
+- #prepped
 
 ### Resources
 

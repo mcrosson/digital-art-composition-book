@@ -6,6 +6,7 @@ template-should-replace: "never"
 tags: 
   - drawing
   - in-progress
+  - practice
   - "{{tags}}"
 title: "{{title:text:the_source_filename}}"
 created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
@@ -14,7 +15,7 @@ completed_date: "yyyy-mm-dd"
 ---
 ## To Do 
 - [ ] Cleanup tags
-- [ ] Move this note to `In Progress` or `Complete` section
+- [ ] Move this note to `Practice`, `In Progress` or `Complete` section
 - [ ] Link file(s)
 - [ ] Delete [this] To Do section
 

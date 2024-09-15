@@ -6,6 +6,7 @@ template-should-replace: "never"
 tags: 
   - coloring-page
   - in-progress
+  - prepped
   - "{{tags}}"
 title: "{{title:text:the_source_filename}}"
 created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
