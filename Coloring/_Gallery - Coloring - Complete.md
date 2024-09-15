@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Coloring/Complete/ -path: Coloring/Complete/attachments/ tag:#coloring-page'
+query: 'path: Coloring/Complete/ -path: Coloring/Complete/attachments/'
 recursive: true
 sort: desc
 sortBy: name

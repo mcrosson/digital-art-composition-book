@@ -1,14 +1,20 @@
 ---
 template-output: "Zentangle/Practice"
-template-filename: "{{completion}}"
+template-filename: "TBD - yyyy-mm-dd - {{title}}"
 template-should-create: "open-tab"
 template-should-replace: "never"
 tags: 
   - practice
   - "{{tags}}"
-created_at: "{{created_at:currentDate:yyyy-MM-dd HHmmZZZ}}"
-completed: "{{completion}}"
+created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
+started_date: "yyyy-mm-dd"
+completed_date: "yyyy-mm-dd"
 ---
+## To Do 
+- [ ] Cleanup tags
+- [ ] Link file(s)
+- [ ] Delete [this] To Do section
+
 ## Krita Source
 embed_krita_file
 

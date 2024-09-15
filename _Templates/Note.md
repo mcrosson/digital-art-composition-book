@@ -6,6 +6,6 @@ template-should-replace: "never"
 tags: 
   - note
   - "{{tags}}"
-created_at: "{{created_at:currentDate:yyyy-MM-dd HHmmZZZ}}"
+created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
 source: "{{source}}"
 ---

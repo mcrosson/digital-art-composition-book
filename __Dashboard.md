@@ -35,11 +35,29 @@ The creator of this Obsidian vault has **NOT** included any source materials or 
 
 ## Galleries
 
+### My Art
+
 - [Favorites](_Gallery%20-%20Favorites.md)
-- [Drawing](Drawing/_Gallery%20-%20Drawing.md)
-- [ZIA](Zentangle/_ZIA/_Gallery%20-%20Zentangle%20-%20ZIA.md)
-- [Dot to Dot](Dot%20to%20Dot/_Gallery%20-%20Dot%20to%20Dot.md)
-- [Coloring](Coloring/_Gallery%20-%20Coloring.md)
+- [Drawing](Drawing/_Gallery%20-%20Drawing%20-%20Complete.md)
+- [ZIA](Zentangle/__Gallery%20-%20Zentangle%20-%20_ZIA.md)
+- [Dot to Dot](Dot%20to%20Dot/_Gallery%20-%20Dot%20to%20Dot%20-%20Complete.md)
+- [Coloring](Coloring/_Gallery%20-%20Coloring%20-%20Complete.md)
+
+### In Progress
+
+- [Drawing](Drawing/_Gallery%20-%20Drawing%20-%20In%20Progress.md)
+- [Dot to Dot](Dot%20to%20Dot/_Gallery%20-%20Dot%20to%20Dot%20-%20In%20Progress.md)
+- [Coloring](Coloring/_Gallery%20-%20Coloring%20-%20In%20Progress.md)
+
+### Practice
+
+- [Drawing](Drawing/_Gallery%20-%20Drawing%20-%20Practice.md)
+- [Zentangle](Zentangle/__Gallery%20-%20Zentangle%20-%20Practice.md)
+
+### Prepped
+
+- [Dot to Dot](Dot%20to%20Dot/_Gallery%20-%20Dot%20to%20Dot%20-%20Prepped.md)
+- [Coloring](Coloring/_Gallery%20-%20Coloring%20-%20Prepped.md)
 
 ## Ideas / Inspiration
 

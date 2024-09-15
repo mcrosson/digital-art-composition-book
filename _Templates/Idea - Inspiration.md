@@ -7,11 +7,13 @@ tags:
   - idea
   - inspiration
   - "{{tags}}"
-created_at: "{{created_at:currentDate:yyyy-MM-dd HHmmZZZ}}"
+created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
 source: "{{source}}"
 ---
-## Krita Source
-embed_krita_file
+## To Do 
+- [ ] Cleanup tags
+- [ ] Link file
+- [ ] Delete [this] To Do section
 
 ## Image
 embed_jpg_or_png

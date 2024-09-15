@@ -1,9 +1,8 @@
 
 ~~~~note-gallery
-query: 'path: Zentangle/_ZIA/ -path: Zentangle/_ZIA/attachments/'
-debugQuery: true
+query: 'path: Dot to Dot/In Progress/'
 recursive: true
-sort: asc
+sort: desc
 sortBy: name
 showTitle: true
 breakpoints:

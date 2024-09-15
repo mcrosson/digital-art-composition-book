@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Dot to Dot/Complete/ -path: Dot to Dot/Complete/attachments/ tag:#dot-to-dot'
+query: 'path: Coloring/Prepped/'
 recursive: true
 sort: desc
 sortBy: name

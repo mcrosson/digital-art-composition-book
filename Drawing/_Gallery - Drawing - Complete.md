@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Drawing/Complete/ -path: Drawing/Complete/attachments/ tag:#drawing'
+query: 'path: Drawing/Complete/ -path: Drawing/Complete/attachments/'
 recursive: true
 sort: desc
 sortBy: name
