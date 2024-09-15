@@ -1,6 +1,6 @@
 
 ~~~~note-gallery
-query: 'path: Coloring/Prepped/'
+query: 'path: Coloring/Prepped/ tag:#prepped'
 recursive: true
 sort: desc
 sortBy: name
