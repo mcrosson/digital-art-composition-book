@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34e87212fb9124b5",
+        "id": "03621ca99c9b5249",
         "type": "tabs",
         "children": [
           {
-            "id": "25dd4cdad6a2b5a9",
+            "id": "7d5274162457b1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,8 +159,10 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "25dd4cdad6a2b5a9",
+  "active": "7d5274162457b1c7",
   "lastOpenFiles": [
+    "__Dashboard.md",
+    "Readme.md",
     "Notes/Krita Quick Reference.md",
     "Notes/attachments/Imagepipe_360.jpg",
     "Notes/attachments/Imagepipe_359.jpg",
@@ -178,7 +180,6 @@
     "Notes/attachments/2024-09-13_16-56_1.png",
     "Notes/Color Palette Generator.md",
     "Notes/Android Drawing Apps.md",
-    "__Dashboard.md",
     "_Gallery - Favorites.md",
     "Notes/Obsidian ToC.md",
     "Notes/Extract Images From PDF.md",
@@ -204,7 +205,6 @@
     "Dot to Dot/In Progress/_template - Copy (4).md",
     "Dot to Dot/In Progress/_template - Copy (3).md",
     "Dot to Dot/In Progress/_template - Copy (2).md",
-    "Dot to Dot/In Progress/_template - Copy.md",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_2_thumb.png",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_1_thumb.png"
   ]
