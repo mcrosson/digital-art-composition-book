@@ -23,6 +23,27 @@ Also see [Digital coloring and drawing](Notes/Digital%20coloring%20and%20drawing
 - Open file in Krita
 - Make art
 
+## Logitech T650 Tips / Tricks
+
+- point and click tab
+  - primary click: click with one finger
+  - right click: click with 2 fingers
+  - middle click: disabled
+  - pointer movement: disabled
+  - enable dragging: disabled
+- naviage windows tab
+  - disable everything
+- scroll tab
+  - enable vertical scrolling
+  - enable horizontal scrolling
+  - disable back/forward
+  - enable zoom in and out
+- krita settings
+  - add undo & redo to main toolbar
+  - canvas input settings
+    - remove non-modified mouse wheel options from 'zoom canvas'
+    - add mouse wheel left/right/up/down to pan canvas
+
 ## Small Tablet Tips / Tricks
 
 An important note: the settings dialog may be too big horizontally for a small android tablet screen. You can drag the top of the window to move it left/right/up/down to access the full window. This is especially important on Samsung Z Fold devices.
