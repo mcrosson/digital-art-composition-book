@@ -8,6 +8,10 @@ title: **Table of Contents**
 
 The creator of this Obsidian vault has **NOT** included any source materials or other copyrighted material from outside sources.
 
+## Viewing on the website
+
+Please note: If you're viewing this file from the main website where the files have been published, some, if not all, of the links below will be broken. These links will *not* be broken once the vault is opened within Obsidian.
+
 ## Comp Book (Vault) Layout
 
 - Different folders for each form of art performed

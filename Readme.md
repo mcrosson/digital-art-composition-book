@@ -6,7 +6,7 @@ Digital art may be 'rigid' and 'not notebook friendly' but this Obsidian vault c
 
 ## Additional Details
 
-Please see the [__Using The Vault](Notes/__Using%20The%20Vault.md) file for additional detail how this vault can be used as a digital art composition book.
+Please see the [__Using The Vault](Notes/__Using%20The%20Vault.md) file for additional detail how this vault can be used as a digital art composition book. Please note: some links on the `__Using The Vault` page will be broken when viewed from the website but *will* work properly when opened within Obsidian.
 
 There are also screenshots below showing the vault in use.
 
