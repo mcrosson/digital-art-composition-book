@@ -4,9 +4,22 @@ This is a template Obsidian vault that is setup to act as a 'Digital Art Composi
 
 Digital art may be 'rigid' and 'not notebook friendly' but this Obsidian vault can wrangle things into a digital notebook that's similar in feel to a paper composition book / journal. It's not perfect but it works well with the constraints 'digital' imposes.
 
-Please see the [__Dashboard](__Dashboard.md) file for additional detail.
+## Additional Details
 
-## How To Download The Files As A ZIP
+Please see the [__Using The Vault](Notes/__Using%20The%20Vault.md) file for additional detail how this vault can be used as a digital art composition book.
+
+There are also screenshots below showing the vault in use.
+
+## To use the vault template
+
+- Download the files as a zip file (see below screenshot for detail)
+- Extract the zip file
+- Rename the folder contained within the zip file if desired
+- Open the folder that was extracted in Obsidian as a vault
+- Import any existing art as appropriate
+- Enjoy
+
+## Downloading the vault as a zip file
 
 ![How to download](Notes/attachments/downloading.png)
 

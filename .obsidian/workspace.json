@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Dashboard.md",
+                "file": "Readme.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Dashboard.md",
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Dashboard.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Dashboard.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -161,27 +161,31 @@
   },
   "active": "7d5274162457b1c7",
   "lastOpenFiles": [
+    "Notes/__Using The Vault.md",
     "__Dashboard.md",
-    "Readme.md",
-    "Notes/Krita Quick Reference.md",
-    "Notes/attachments/Imagepipe_360.jpg",
-    "Notes/attachments/Imagepipe_359.jpg",
-    "Notes/attachments/Imagepipe_361.jpg",
-    "Notes/Dot to Dot Quick Reference.md",
     "Notes/Obtaining Source Material.md",
-    "Notes/attachments/2024-09-13_17-00_1.png",
-    "Notes/attachments/2024-09-13_17-00.png",
-    "Notes/attachments/2024-09-13_16-58.png",
+    "Notes/Obsidian ToC.md",
+    "Notes/Krita Quick Reference.md",
+    "Notes/eInk Setting.md",
+    "Notes/Drawing Tablet Quick Reference.md",
+    "Notes/Dot to Dot Quick Reference.md",
+    "Notes/Coloring Page Quick Reference.md",
     "Notes/Digital coloring and drawing.md",
     "Notes/Convert photo to coloring page.md",
     "Notes/Convert PDF Coloring Pages.md",
-    "Notes/Coloring Page Quick Reference.md",
-    "Notes/attachments/2024-09-13_16-56.png",
-    "Notes/attachments/2024-09-13_16-56_1.png",
     "Notes/Color Palette Generator.md",
     "Notes/Android Drawing Apps.md",
+    "Notes/_Troubleshooting The Vault.md",
+    "Readme.md",
     "_Gallery - Favorites.md",
-    "Notes/Obsidian ToC.md",
+    "Notes/attachments/Imagepipe_360.jpg",
+    "Notes/attachments/Imagepipe_359.jpg",
+    "Notes/attachments/Imagepipe_361.jpg",
+    "Notes/attachments/2024-09-13_17-00_1.png",
+    "Notes/attachments/2024-09-13_17-00.png",
+    "Notes/attachments/2024-09-13_16-58.png",
+    "Notes/attachments/2024-09-13_16-56.png",
+    "Notes/attachments/2024-09-13_16-56_1.png",
     "Notes/Extract Images From PDF.md",
     "kritarc",
     "Resources/sessions/Zentangle.0040.ksn",
@@ -201,10 +205,6 @@
     "Dot to Dot/In Progress/haunted-house.md",
     "Dot to Dot/In Progress/bulldozer.md",
     "Dot to Dot/In Progress/_template.md",
-    "Dot to Dot/In Progress/_template - Copy (5).md",
-    "Dot to Dot/In Progress/_template - Copy (4).md",
-    "Dot to Dot/In Progress/_template - Copy (3).md",
-    "Dot to Dot/In Progress/_template - Copy (2).md",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_2_thumb.png",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_1_thumb.png"
   ]

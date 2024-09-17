@@ -5,8 +5,9 @@ source: "N/A"
 created_at: 2024-09-13
 ---
 
+The below links can be good sources of coloring pages, dot to dot pages and more.
+
 - https://ko-fi.com/welshpixie
-- https://rheall.gumroad.com/l/hTdbD
 - https://www.etsy.com/shop/TimsPrintables
 - https://www.etsy.com/shop/Woodseestees
 - https://www.etsy.com/shop/TheColoringBookshelf

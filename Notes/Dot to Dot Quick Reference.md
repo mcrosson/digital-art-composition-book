@@ -7,6 +7,8 @@ source: N/A
 
 ---
 
+## Create Digital Document
+
 - Import image as a layer
 - Rename layer `Dot to Dot`
 - Set `Blending mode` to `Darken`

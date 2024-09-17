@@ -6,22 +6,21 @@ source: "N/A"
 created_at: 2024-09-13
 ---
 
-## A quick note
+```table-of-contents
+title: **Table of Contents**
+```
 
-Also see [Digital coloring and drawing](Notes/Digital%20coloring%20and%20drawing.md) for a full Krita config. The Krita specific information is at the *bottom* of the linked page.
+---
 
-## General workflow
+## Brushes, Palettes & More
 
-- Prep downloaded files
-	- Extract `png`/`jpg`/`tiff` pages from `pdf` if needed
-	- Convert image to `kra` format
-	- Setup any necessary layers
-		- See [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md) for coloring pages
-		- See [Dot to Dot Quick Reference](Notes/Dot%20to%20Dot%20Quick%20Reference.md) for dot to dot pages
-- Create page in vault with link to `kra` file
-- Sync vault to tablet as appropriate
-- Open file in Krita
-- Make art
+- [brush] Bic ballpoint: [https://krita-artists.org/t/cheap-ballpoint-pen-brush/17170](https://krita-artists.org/t/cheap-ballpoint-pen-brush/17170)
+- [brush] Copic Markers: [https://krita-artists.org/t/realistic-copic-marker-like-brushes/41203](https://krita-artists.org/t/realistic-copic-marker-like-brushes/41203)
+- [brush] Graphite: [https://krita-artists.org/t/graphite-brushes-for-the-new-pattern-blend-modes/28036](https://krita-artists.org/t/graphite-brushes-for-the-new-pattern-blend-modes/28036)
+- [brush] Sketch Pencils: `RM_Sketch_V1.bundle` from [https://files.kde.org/krita/extras/](https://files.kde.org/krita/extras/)
+- [brush] Charcoal: `Charcoal_KA.bundle` from [https://files.kde.org/krita/extras/charcoal/](https://files.kde.org/krita/extras/charcoal/)
+- [palate] copic marker colors: [https://raw.githubusercontent.com/maborotopia/Krita_resources/master/copic322_color.gpl](https://raw.githubusercontent.com/maborotopia/Krita_resources/master/copic322_color.gpl)
+- [palate] copic colors (more robust): [https://www.deviantart.com/d-signer/art/All-358-COPIC-Digital-Marker-Colours-ASE-ACO-GPL-765188823](https://www.deviantart.com/d-signer/art/All-358-COPIC-Digital-Marker-Colours-ASE-ACO-GPL-765188823)
 
 ## Logitech T650 Tips / Tricks
 
@@ -50,23 +49,79 @@ An important note: the settings dialog may be too big horizontally for a small a
 
 On a small tablet it can be wise to use the full screen canvas view and pop-up palette. This allows you to use the whole screen with your stylus and easily access different brushes and recently used colors. Note: the pop-up palette will show your favorite brushes by default and which brushes it shows, as well as how many to show, can be configured within the main Krita settings.
 
-Another helpful thing on tablets is tuning the mutli-touch gestures. The following work very well in practice:
+### Multi-touch / Gestures
 
 - Two finger tap: activate pop-up palette
 - Three finger tap: toggle canvas only mode
 - Four finger drag: Undo
 - Four finger tap: redo
 
-### Screenshots
+### General Settings
 
-#### Main Krita View With File Open
+- general
+    - window
+        - disable HiDPI support
+    - tools
+        - tool options location: in toolbar
+        - disable 'enable touch painting
+    - misc (when krita starts)
+        - show session manager
+        - save session on exit
+- canvas input settings (use a non default profile / see above for saving fix)
+    - look for any gestures/touch/pen stuff that needs removing
+    - show pop up widget
+        - set to 'two finger tap'
+    - zoom canvas
+        - set gesture to five finger tap
+    - touch gestures
+        - set undo to four finger drag
+        - set redo to four finger tap
+        - set toggle canvas mode to three finger tap
+- tablet settings
+    - adjust pressure curve
+- pop-up palatte
+    - disable show rotation ring
+- s pen actions
+    - click: toggle pop up palette with s-pen
+    - double click: show canvas only
+    - gestures: set all to do nothing
+
+### Things to consider
+
+- bug fix input profile settings: [https://krita-artists.org/t/cannot-save-input-profile-does-not-persist-on-startup-on-android/55693/4](https://krita-artists.org/t/cannot-save-input-profile-does-not-persist-on-startup-on-android/55693/4)
+- s pen click button is mouse middle click on galaxy fold devices
+- pop up palatte _is_ quick settings (like sketchbook puck)
+- gestures in the config can likely do brush size up/dn and undo/redo
+- can tune brush settings shown via the pop up palatte ui
+- go through favorite brushes and set up to 10 ; these will show on the popup palatte
+- use portrait mode when editing brushes ; you need the height to see everything and you can use the top of the pop-up window to move it left/right for full access
+
+### External storage resources folder on Android
+
+- export/prep everything you want to keep (reuse desktop default resources dir if desired)
+- settings -> resources
+- use the ICON that pops the android folder selector
+- select the folder you want to use and grant storage permissions to it
+- save settings & quit krita
+- force stop krita in app settings
+- (ONLY IF REIMPORTING EXPORTS) - relaunch krita and import data
+- copy the resources dir you want to use to the selected folder
+- launch krita. this _will_ take awhile and may look like its frozen
+- clear any warnings/errors
+- quit krita
+- force stop krita
+- relaunch and enjoy
+
+## Screenshots
+
+### Main Krita View With File Open
 
 ![](Notes/attachments/Imagepipe_359.jpg)
 
-#### Canvas View
+### Canvas View
 
 ![](Notes/attachments/Imagepipe_360.jpg)
 
-#### Pop-up Palette
+### Pop-up Palette
 
 ![](Notes/attachments/Imagepipe_361.jpg)
