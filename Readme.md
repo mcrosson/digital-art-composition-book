@@ -19,6 +19,10 @@ There are also screenshots below showing the vault in use.
 - Import any existing art as appropriate
 - Enjoy
 
+## Licensing
+
+This project is licensed under the [Creative Commons BY-NC 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 ## Downloading the vault as a zip file
 
 ![How to download](Notes/attachments/downloading.png)
