@@ -223,6 +223,15 @@ Krita has a steep learning curve compared to Sketchbook and my approach to color
 
 The below sections layout how I setup Krita overall and I leave the practical implementation of the below as an exercise for the reader.
 
+---
+
+## Important Note
+
+Please see [Krita Quick Reference](Notes/Krita%20Quick%20Reference.md) instead of the below for current information on using Krita with mobile devices, particularly Android devices.
+
+The below is the original blog post information which may have 'skewed out of date' over time compared to the `Krita Quick Reference` note stored in this vault.
+
+---
 
 ### Resources I found that may be worth investigating {#resources-i-found-that-may-be-worth-investigating}
 

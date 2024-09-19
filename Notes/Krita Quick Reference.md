@@ -22,65 +22,46 @@ title: **Table of Contents**
 - [palate] copic marker colors: [https://raw.githubusercontent.com/maborotopia/Krita_resources/master/copic322_color.gpl](https://raw.githubusercontent.com/maborotopia/Krita_resources/master/copic322_color.gpl)
 - [palate] copic colors (more robust): [https://www.deviantart.com/d-signer/art/All-358-COPIC-Digital-Marker-Colours-ASE-ACO-GPL-765188823](https://www.deviantart.com/d-signer/art/All-358-COPIC-Digital-Marker-Colours-ASE-ACO-GPL-765188823)
 
-## Logitech T650 Tips / Tricks
+## Input Device Tips / Tricks
 
-- point and click tab
-  - primary click: click with one finger
-  - right click: click with 2 fingers
-  - middle click: disabled
-  - pointer movement: disabled
-  - enable dragging: disabled
-- naviage windows tab
-  - disable everything
-- scroll tab
-  - enable vertical scrolling
-  - enable horizontal scrolling
-  - disable back/forward
-  - enable zoom in and out
-- krita settings
-  - add undo & redo to main toolbar
-  - canvas input settings
-    - remove non-modified mouse wheel options from 'zoom canvas'
-    - add mouse wheel left/right/up/down to pan canvas
+- [Drawing Tablet Quick Reference](Notes/Drawing%20Tablet%20Quick%20Reference.md)
+- [Trackpad Quick Reference](Notes/Trackpad%20Quick%20Reference.md)
 
-## Small Tablet Tips / Tricks
+## Android Tablet Tips / Tricks
 
 An important note: the settings dialog may be too big horizontally for a small android tablet screen. You can drag the top of the window to move it left/right/up/down to access the full window. This is especially important on Samsung Z Fold devices.
 
 On a small tablet it can be wise to use the full screen canvas view and pop-up palette. This allows you to use the whole screen with your stylus and easily access different brushes and recently used colors. Note: the pop-up palette will show your favorite brushes by default and which brushes it shows, as well as how many to show, can be configured within the main Krita settings.
 
-### Multi-touch / Gestures
-
-- Two finger tap: activate pop-up palette
-- Three finger tap: toggle canvas only mode
-- Four finger drag: Undo
-- Four finger tap: redo
-
 ### General Settings
+
+^0f3b48
 
 - general
     - window
         - disable HiDPI support
     - tools
         - tool options location: in toolbar
-        - disable 'enable touch painting
+        - disable 'enable touch painting'
     - misc (when krita starts)
         - show session manager
         - save session on exit
 - canvas input settings (use a non default profile / see above for saving fix)
     - look for any gestures/touch/pen stuff that needs removing
     - show pop up widget
-        - set to 'two finger tap'
+        - set gesture to 'two finger tap'
+	- pan canvas
+		- set gesture to 'five finger drag'
     - zoom canvas
-        - set gesture to five finger tap
+        - set gesture to 'five finger tap'
     - touch gestures
-        - set undo to four finger drag
-        - set redo to four finger tap
-        - set toggle canvas mode to three finger tap
+        - set gesture undo to 'four finger drag'
+        - set gesture redo to 'four finger tap'
+        - set gesture toggle canvas mode to 'three finger tap'
 - tablet settings
     - adjust pressure curve
 - pop-up palatte
-    - disable show rotation ring
+    - disable show rotation ring (if desired)
 - s pen actions
     - click: toggle pop up palette with s-pen
     - double click: show canvas only
@@ -111,6 +92,52 @@ On a small tablet it can be wise to use the full screen canvas view and pop-up p
 - quit krita
 - force stop krita
 - relaunch and enjoy
+
+## KemoNine's Device/Input Config
+
+The below are the main hid settings KemoNine uses with a Samsung Android tablet plus S Pen, Wacom One (Small) drawing tablet and a Logitech T650 track pad. They only use these 3 devices for working with Krita and have tuned their config accordingly.
+
+### Device Configs
+
+The following are the device configs KemoNine uses within each device's setup/config tool(s).
+
+- [Wacom One (Small) Drawing Tablet](Notes/Drawing%20Tablet%20Quick%20Reference.md#^163d42)
+- [Logitech T650 Trackpad](Notes/Trackpad%20Quick%20Reference.md#^9233aa)
+- [Samsung Z Fold 4](Notes/Krita%20Quick%20Reference.md#^0f3b48)
+
+### Krita Input Config
+
+The below are the input settings KemoNine uses within Krita
+
+- S Pen
+	- Click: Toggle pop-up palette with S-Pen
+	- Double click: show canvas only
+	- All other options set to 'do nothing'
+- Canvas Input Settings
+	- Remove /all/ but the below
+	- Tool invocation
+		- Mouse Button - Left Button - Activate
+		- Key Combination - Return - Confirm
+		- Key Combination - Esc - Cancel
+	- Alternate Invocation - All shortcuts removed
+	- Change Primary Setting - All shortcuts removed
+	- Pan Canvas
+		- Mouse Button - Space + Left Button - Pan Mode
+	- Rotate Canvas - All shortcuts removed
+	- Zoom Canvas
+		- Gesture - Five Finger Tap - Zoom Mode
+	- Show Popup Widget
+		- Mouse Button - Right Button - Activate
+		- Gesture - Two Finger Tap - Activate
+	- Select Layer - All shortcuts removed
+	- Exposure and Gamma - All shortcuts removed
+	- Switch Time - All shortcuts removed
+	- Zoom and Rotate Canvas
+		- Gesture - Two Finger Drag - Rotate Mode
+	- Touch Gestures
+		- Gesture - Four Finger Tap - Redo
+		- Gesture - Four Finger Drag - Undo
+		- Gesture - Three Finger Tap - Toggle Canvas Only Mode
 
 ## Screenshots
 

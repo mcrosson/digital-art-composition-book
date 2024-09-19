@@ -6,7 +6,13 @@ source: "N/A"
 created_at: 2024-09-14
 ---
 
-## PC Drawing Tablet Config
+## General
+
+Setup according to desires and cross reference setup with Krita canvas input settings as desired.
+
+## KemoNine's Drawing Tablet Config
+
+^163d42
 
 - Settings per app
 - Saber
