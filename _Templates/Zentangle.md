@@ -1,24 +1,23 @@
 ---
-template-output: "Coloring"
-template-filename: "TBD - yyyy-mm-dd - {{title}}"
+template-output: "Zentangle/"
+template-filename: "{{completed_date}} - {{title}}"
 template-should-create: "open-tab"
 template-should-replace: "never"
 tags: 
   - kemonine
-  - coloring-page
+  - zia
+  - zentangle-inspired-art
   - in-progress
-  - prepped
+  - practice
   - "{{tags}}"
-title: "{{title:text:the_source_filename}}"
 created_ts: "{{created:currentDate:yyyy-MM-dd TTZZ}}"
-started_date: "yyyy-mm-dd"
-completed_date: "yyyy-mm-dd"
-source: "{{source}}"
+started_date: "{{started_date:text:yyyy-mm-dd}}"
+completed_date: "{{completed_date:text:yyyy-mm-dd}}"
 ---
 ---
 ## To Do 
 - [ ] Cleanup tags
-- [ ] Move this note to `Prepped` or `In Progress` or `Complete` section
+- [ ] Move this note to `Practice` or `In Progress` or `_ZIA` section
 - [ ] Link file(s)
 - [ ] Delete [this] To Do section
 
@@ -42,7 +41,7 @@ embed_jpg_or_png
 ## Krita Source
 embed_kra_file
 
-## Coloring Brush(es)
+## Brush(es)
 - `brush_1`
   - Parameter_1: `value_1`
   - Parameter_2: `value_2`
@@ -54,8 +53,4 @@ embed_kra_file
 screenshot / name
 
 ## Intemediate Images
-### Coloring
-embed_jpg_or_png
-
-### Original
-embed_jpg_or_png
+*if applicable*
