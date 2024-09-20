@@ -17,6 +17,7 @@ title: **Table of Contents**
 ### In Progress
 
 - [Drawing](Drawing/_Gallery%20-%20Drawing%20-%20In%20Progress.md)
+- [Zentangle](Zentangle/__Gallery%20-%20Zentangle%20-%20In%20Progress.md)
 - [Dot to Dot](Dot%20to%20Dot/_Gallery%20-%20Dot%20to%20Dot%20-%20In%20Progress.md)
 - [Coloring](Coloring/_Gallery%20-%20Coloring%20-%20In%20Progress.md)
 
