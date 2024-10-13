@@ -127,12 +127,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dashboard-navigator:Open dashboard navigator": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": true,
-      "smart-random-note:Open Random Note from Search": true
+      "smart-random-note:Open Random Note from Search": true,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "9fab42d2d7ba44d4",

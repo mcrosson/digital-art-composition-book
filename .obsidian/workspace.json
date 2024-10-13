@@ -155,8 +155,9 @@
       "canvas:Create new canvas": true,
       "zk-prefixer:Create new unique note": true,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "smart-random-note:Open Random Note from Search": true,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "7d5274162457b1c7",
