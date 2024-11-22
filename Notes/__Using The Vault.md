@@ -18,7 +18,19 @@ There are a number of pinned tab to ensure users see the most useful information
 
 I do recommend keeping the `__Dashboard` tab pinned as it's a great starting point for using this vault, even when used heavily day to day.
 
-## Attachment Automatic Management
+## A Note About Deletions
+
+Due to the way the attachment folder indexes and automatic attachment management work: attachments may not be auto-deleted when deleting a note. This is a quirk with how the attachment folder indexes interact with the automatic attachment management setup.
+
+I do *not* consider this a problem.
+
+A paper comp book won't have content deleted, if anything: it'd be crossed out and still somewhat visible. To properly 'delete' something from a paper comp book, you'd need to cut or tear the page(s). I doubt many are going to that much trouble.
+
+Instead of deletes, there is an `Attic` folder where content can be moved out of visible scope but still available if you ever need to go back and reference it. This will allow you to achieve a similar work flow as 'crossing out' content in a paper comp book.
+
+If you are the type of person who would go through the trouble of cutting or tearing page(s) in a paper comp book, you can still delete a note and its attached files. You'll just need to delete both the note and folder with the attachments manually.
+
+## Automatic Attachment Management
 
 This vault is setup to automatically manage attachments. It is configured to ensure all note attachments are stored in the appropriate `attachments` directory under a sub-folder with the same name as the note.
 
@@ -99,7 +111,7 @@ The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes
 - Prep downloaded files
 	- Convert source material to art app native format
 	- Setup any necessary layers
-		- See [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md) for coloring pages
+		- See [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md) for coloring pages
 		- See [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md) for dot to dot pages
 - Create page for artwork using the appropriate template
 - Link files to new artwork page as appropriate
@@ -114,7 +126,7 @@ The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes
 - [Android Drawing Apps](Android%20Drawing%20Apps.md)
 - [Krita Quick Reference](Krita%20Quick%20Reference.md)
 - [Color Palette Generator](Color%20Palette%20Generator.md)
-- [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md)
+- [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md)
 - [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md)
 
 ## Enjoy
