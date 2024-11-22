@@ -18,9 +18,7 @@ There are a number of pinned tab to ensure users see the most useful information
 
 I do recommend keeping the `__Dashboard` tab pinned as it's a great starting point for using this vault, even when used heavily day to day.
 
-## Attachments
-
-### Automatic Management
+## Attachment Automatic Management
 
 This vault is setup to automatically manage attachments. It is configured to ensure all note attachments are stored in the appropriate `attachments` directory under a sub-folder with the same name as the note.
 
@@ -28,15 +26,21 @@ This will automatically move attachments and update links when a note is moved b
 
 You can disable this functionality by disabling the `Import Attachments+` community plugin.
 
-### Folders
+## Folder Indexes
+
+### Attachment Folders
 
 This vault is setup to have "Folder Notes" that index the contents of each `attachments` directory. These folder notes are auto-updated and are a simple index of files within a given `attachments` directory. Simply click on an `attachments` directory to open the index.
 
-## Notes Folder
+### Source Materials Folders
+
+This vault is setup to have "Folder Notes" that index the contents of each `Source Materials` directory. These folder notes are auto-updated and are a simple index of files within a given `Source Materials` directory. Simply click on an `Source Materials` directory to open the index.
+
+### Notes Folder
 
 The `Notes` directory contains a lot of useful information related to digital art. The directory is indexed using "Folder Notes" and the index is automatically updated when new notes are added to the directory. Simply click on the `Notes` directory to open the index.
 
-## Folder Indexes
+### Disabling
 
 You can completely disable the directory index functionality by disabling the `Folder Notes` and `Waypoint` plugins. When disabling these plugins, you'll need to manually delete the folder notes within each `attachments` directory as well as the folder note within the `Notes` directory.
 
