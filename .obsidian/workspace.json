@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Coloring Page Quick Reference.md",
+                "file": "Notes/attachments/attachments.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Coloring Page Quick Reference"
+              "title": "attachments"
             }
           }
         ],
@@ -226,17 +226,18 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "7b253e232b4d6bfd",
+  "active": "7ee887658e4391b7",
   "lastOpenFiles": [
+    "Notes/Notes.md",
+    "Notes/attachments/attachments.md",
+    "Notes/Coloring Page Quick Reference.md",
     "Notes/__a",
     "Notes/Untitled.md",
-    "Notes/Coloring Page Quick Reference.md",
     "Notes/Color Palette Generator.md",
     "Notes/Android Drawing Apps.md",
     "Notes/_Troubleshooting The Vault.md",
     "Notes/__Using The Vault.md",
     "__Dashboard.md",
-    "Notes/Notes.md",
     "Readme.md",
     "Coloring/Source Materials/Source Materials.md",
     "Zentangle/Tangles/attachments/attachments.md",
@@ -245,7 +246,6 @@
     "Zentangle/Practice/attachments/Untitled.md",
     "Zentangle/_ZIA/attachments/attachments.md",
     "Zentangle/In Progress/attachments/Untitled.md",
-    "Notes/attachments/attachments.md",
     "Ideas - Inspiration/attachments/attachments.md",
     "Drawing/Practice/attachments/attachments.md",
     "Drawing/In Progress/attachments/attachments.md",
@@ -272,7 +272,6 @@
     "Notes/attachments/2024-09-13_16-56_1.png",
     "kritarc",
     "Resources/sessions/Zentangle.0040.ksn",
-    "Resources/sessions/Coloring.0058.ksn",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_2_thumb.png",
     "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_1_thumb.png"
   ]

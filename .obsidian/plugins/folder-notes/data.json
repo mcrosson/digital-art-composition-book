@@ -9,7 +9,7 @@
   "excludeFolders": [
     {
       "type": "pattern",
-      "string": "*_attachment*",
+      "string": "*attachment*",
       "position": 0,
       "subFolders": true,
       "disableSync": true,
@@ -62,7 +62,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "path",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"
