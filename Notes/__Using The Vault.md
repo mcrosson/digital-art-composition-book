@@ -12,6 +12,12 @@ The creator of this Obsidian vault has **NOT** included any source materials or 
 
 Please note: If you're viewing this file from the main website where the files have been published, some, if not all, of the links below will be broken. These links will *not* be broken once the vault is opened within Obsidian.
 
+## Pinned Tabs
+
+There are a number of pinned tab to ensure users see the most useful information when first opening this vault. Feel free to unpin tabs as desired.
+
+I do recommend keeping the `__Dashboard` tab pinned as it's a great starting point for using this vault, even when used heavily day to day.
+
 ## Comp Book (Vault) Layout
 
 - Different folders for each form of art performed
@@ -50,6 +56,10 @@ Please note: If you're viewing this file from the main website where the files h
 - The files in the `Notes` section are non-indexed and exist as a generalized list of topics in the file browser. This can be changed to match your preferences.
 - The `Ideas - Inspiration` folder does *not* have sub-folders and assumes you'll just keep a list of notes similar to the `Notes` section or adjust this area to match your preferences.
 - The [__Dashboard](__Dashboard.md) is meant to be 'the starting point' and 'overview' for the whole vault
+
+## Troubleshooting
+
+The [Troubleshooting The Vault](Notes/_Troubleshooting%20The%20Vault.md) note includes some common scenarios that can happen as the vault is used over time. If you have problems with the vault, start with this page for troubleshooting.
 
 ## New Artwork General Workflow
 

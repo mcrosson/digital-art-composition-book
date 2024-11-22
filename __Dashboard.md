@@ -45,6 +45,7 @@ title: **Table of Contents**
 
 ## Reference
 
+- [Using The Vault](Notes/__Using%20The%20Vault.md)
 - [Troubleshooting The Vault](Notes/_Troubleshooting%20The%20Vault.md)
 - [Obtaining Source Material](Notes/Obtaining%20Source%20Material.md)
 - [Color Palette Generator](Notes/Color%20Palette%20Generator.md)
