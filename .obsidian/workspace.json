@@ -54,23 +54,8 @@
               "icon": "lucide-file",
               "title": "__Dashboard"
             }
-          },
-          {
-            "id": "7b253e232b4d6bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/attachments/attachments.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "attachments"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,20 +211,38 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "7ee887658e4391b7",
+  "active": "7d5274162457b1c7",
   "lastOpenFiles": [
+    "Notes/__Using The Vault.md",
+    "__Dashboard.md",
+    "Notes/_Troubleshooting The Vault.md",
     "Notes/Notes.md",
+    "consistency-report.md",
     "Notes/attachments/attachments.md",
+    "Notes/attachments/Vault Screenshot 3.png",
+    "Notes/attachments/Vault Screenshot 2.png",
+    "Notes/attachments/Vault Screenshot 1.png",
+    "Notes/attachments/Palate-Layer---Fox.png",
+    "Notes/attachments/Obsidian ToC.png",
+    "Notes/attachments/Imagepipe_361.jpg",
+    "Notes/attachments/Imagepipe_360.jpg",
+    "Notes/attachments/Imagepipe_359.jpg",
+    "Notes/attachments/DSC02900-3.jpg",
+    "Notes/attachments/downloading_2.png",
+    "Readme.md",
+    "attachments/Readme",
+    "attachments",
+    "Notes/attachments/Obsidian ToC",
+    "Notes/attachments/Krita Quick Reference",
+    "Notes/attachments/Dot to Dot Quick Reference",
+    "Notes/attachments/Digital coloring and drawing",
+    "Notes/attachments/Coloring Page Quick Reference",
+    "Coloring/Source Materials/Source Materials.md",
     "Notes/Coloring Page Quick Reference.md",
     "Notes/__a",
     "Notes/Untitled.md",
     "Notes/Color Palette Generator.md",
     "Notes/Android Drawing Apps.md",
-    "Notes/_Troubleshooting The Vault.md",
-    "Notes/__Using The Vault.md",
-    "__Dashboard.md",
-    "Readme.md",
-    "Coloring/Source Materials/Source Materials.md",
     "Zentangle/Tangles/attachments/attachments.md",
     "Zentangle/Practice/attachments/attachments.md",
     "Zentangle/In Progress/attachments/attachments.md",
@@ -256,23 +259,6 @@
     "Dot to Dot/Complete/attachments/attachments.md",
     "Coloring/Prepped/attachments/attachments.canvas",
     "Zentangle/Tangles/attachments",
-    "Drawing/Practice/attachments",
-    "Drawing/In Progress/attachments",
-    "Dot to Dot/In Progress/attachments",
-    "Dot to Dot/Prepped/attachments",
-    "Coloring/Prepped/attachments",
-    "Coloring/In Progress/attachments",
-    "Notes/attachments/Imagepipe_360.jpg",
-    "Notes/attachments/Imagepipe_359.jpg",
-    "Notes/attachments/Imagepipe_361.jpg",
-    "Notes/attachments/2024-09-13_17-00_1.png",
-    "Notes/attachments/2024-09-13_17-00.png",
-    "Notes/attachments/2024-09-13_16-58.png",
-    "Notes/attachments/2024-09-13_16-56.png",
-    "Notes/attachments/2024-09-13_16-56_1.png",
-    "kritarc",
-    "Resources/sessions/Zentangle.0040.ksn",
-    "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_2_thumb.png",
-    "Dot to Dot/Source Materials/TimsPrintables/bulldozer-dot-to-dot_1_thumb.png"
+    "Drawing/Practice/attachments"
   ]
 }

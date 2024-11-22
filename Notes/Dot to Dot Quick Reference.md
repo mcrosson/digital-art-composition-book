@@ -42,8 +42,8 @@ source: N/A
 
 ## Screenshots
 
-![](Notes/attachments/2024-09-13_16-58.png)
+![](attachments/Dot%20to%20Dot%20Quick%20Reference/2024-09-13_16-58.png)
 
-![](Notes/attachments/2024-09-13_17-00.png)
+![](attachments/Dot%20to%20Dot%20Quick%20Reference/2024-09-13_17-00.png)
 
-![](Notes/attachments/2024-09-13_17-00_1.png)
+![](attachments/Dot%20to%20Dot%20Quick%20Reference/2024-09-13_17-00_1.png)

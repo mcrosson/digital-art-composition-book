@@ -24,8 +24,8 @@ title: **Table of Contents**
 
 ## Input Device Tips / Tricks
 
-- [Drawing Tablet Quick Reference](Notes/Drawing%20Tablet%20Quick%20Reference.md)
-- [Trackpad Quick Reference](Notes/Trackpad%20Quick%20Reference.md)
+- [Drawing Tablet Quick Reference](Drawing%20Tablet%20Quick%20Reference.md)
+- [Trackpad Quick Reference](Trackpad%20Quick%20Reference.md)
 
 ## Android Tablet Tips / Tricks
 
@@ -101,9 +101,9 @@ The below are the main hid settings KemoNine uses with a Samsung Android tablet 
 
 The following are the device configs KemoNine uses within each device's setup/config tool(s).
 
-- [Wacom One (Small) Drawing Tablet](Notes/Drawing%20Tablet%20Quick%20Reference.md#^163d42)
-- [Logitech T650 Trackpad](Notes/Trackpad%20Quick%20Reference.md#^9233aa)
-- [Samsung Z Fold 4](Notes/Krita%20Quick%20Reference.md#^0f3b48)
+- [Wacom One (Small) Drawing Tablet](Drawing%20Tablet%20Quick%20Reference.md#^163d42)
+- [Logitech T650 Trackpad](Trackpad%20Quick%20Reference.md#^9233aa)
+- [Samsung Z Fold 4](#^0f3b48)
 
 ### Krita Input Config
 
@@ -143,12 +143,12 @@ The below are the input settings KemoNine uses within Krita
 
 ### Main Krita View With File Open
 
-![](Notes/attachments/Imagepipe_359.jpg)
+![](attachments/Krita%20Quick%20Reference/Imagepipe_359.jpg)
 
 ### Canvas View
 
-![](Notes/attachments/Imagepipe_360.jpg)
+![](attachments/Krita%20Quick%20Reference/Imagepipe_360.jpg)
 
 ### Pop-up Palette
 
-![](Notes/attachments/Imagepipe_361.jpg)
+![](attachments/Krita%20Quick%20Reference/Imagepipe_361.jpg)

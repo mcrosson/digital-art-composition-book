@@ -24,9 +24,15 @@ This vault is setup to automatically manage attachments. It is configured to ens
 
 This will automatically move attachments and update links when a note is moved between folders. This is especially helpful as a note moves through the various state/status folders.
 
-You can disable this functionality by disabling the `Import Attachments+` community plugin.
+You can disable this functionality by disabling the `Consistent Attachments and Links` and  `Custom Attachment Location` community plugins.
 
 ## Folder Indexes
+
+### Important
+
+Please note *all* folder indexes *must* be excluded from the `Consistent Attachments and Links` plugin (if enabled). These folder indexes can create an infinite loop situation when the attachment automatic management is triggered.
+
+This is particularly problematic when running the `Reorganize Vault` command.
 
 ### Attachment Folders
 
@@ -42,7 +48,7 @@ The `Notes` directory contains a lot of useful information related to digital ar
 
 ### Disabling
 
-You can completely disable the directory index functionality by disabling the `Folder Notes` and `Waypoint` plugins. When disabling these plugins, you'll need to manually delete the folder notes within each `attachments` directory as well as the folder note within the `Notes` directory.
+You can completely disable the directory index functionality by disabling the `Folder Notes` and `Waypoint` plugins. When disabling these plugins, you'll need to manually delete the folder notes within each `attachments` directory, each `Source Materials` directory as well as the folder note within the `Notes` directory.
 
 If you would like to keep the folder index functionality for only a sub-set of directories, simply delete the folder note for any directories you do not want indexed.
 
@@ -82,19 +88,19 @@ If you would like to keep the folder index functionality for only a sub-set of d
 	- You do *not* need to manage the galleries directly
 - Art works should flow between sub folders as progress is made. For example: `Prepped` -> `In Progress` -> `Complete` for order
 - The `Ideas - Inspiration` folder does *not* have sub-folders and assumes you'll just keep a list of notes similar to the `Notes` section or adjust this area to match your preferences.
-- The [__Dashboard](__Dashboard.md) is meant to be 'the starting point' and 'overview' for the whole vault
+- The [\_\_Dashboard](../__Dashboard.md) is meant to be 'the starting point' and 'overview' for the whole vault
 
 ## Troubleshooting
 
-The [Troubleshooting The Vault](Notes/_Troubleshooting%20The%20Vault.md) note includes some common scenarios that can happen as the vault is used over time. If you have problems with the vault, start with this page for troubleshooting.
+The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes some common scenarios that can happen as the vault is used over time. If you have problems with the vault, start with this page for troubleshooting.
 
 ## New Artwork General Workflow
 
 - Prep downloaded files
 	- Convert source material to art app native format
 	- Setup any necessary layers
-		- See [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md) for coloring pages
-		- See [Dot to Dot Quick Reference](Notes/Dot%20to%20Dot%20Quick%20Reference.md) for dot to dot pages
+		- See [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md) for coloring pages
+		- See [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md) for dot to dot pages
 - Create page for artwork using the appropriate template
 - Link files to new artwork page as appropriate
 - Move artwork page to appropriate sub folder
@@ -104,12 +110,12 @@ The [Troubleshooting The Vault](Notes/_Troubleshooting%20The%20Vault.md) note in
 
 ## Suggested Reading (Notes)
 
-- [Obtaining Source Material](Notes/Obtaining%20Source%20Material.md)
-- [Android Drawing Apps](Notes/Android%20Drawing%20Apps.md)
-- [Krita Quick Reference](Notes/Krita%20Quick%20Reference.md)
-- [Color Palette Generator](Notes/Color%20Palette%20Generator.md)
-- [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md)
-- [Dot to Dot Quick Reference](Notes/Dot%20to%20Dot%20Quick%20Reference.md)
+- [Obtaining Source Material](Obtaining%20Source%20Material.md)
+- [Android Drawing Apps](Android%20Drawing%20Apps.md)
+- [Krita Quick Reference](Krita%20Quick%20Reference.md)
+- [Color Palette Generator](Color%20Palette%20Generator.md)
+- [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md)
+- [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md)
 
 ## Enjoy
 

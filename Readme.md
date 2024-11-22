@@ -6,7 +6,7 @@ Digital art may be 'rigid' and 'not notebook friendly' but this Obsidian vault c
 
 ## Additional Details
 
-Please see the [__Using The Vault](Notes/__Using%20The%20Vault.md) file for additional detail how this vault can be used as a digital art composition book. Please note: some links on the `__Using The Vault` page will be broken when viewed from the website but *will* work properly when opened within Obsidian.
+Please see the [\_\_Using The Vault](Notes/__Using%20The%20Vault.md) file for additional detail how this vault can be used as a digital art composition book. Please note: some links on the `__Using The Vault` page will be broken when viewed from the website but *will* work properly when opened within Obsidian.
 
 There are also screenshots below showing the vault in use.
 
@@ -27,19 +27,19 @@ This project is licensed under the [Creative Commons BY-NC 4.0 International](ht
 
 ### From GitHub (the main site)
 
-![How to download - GitHub](Notes/attachments/downloading_2.png)
+![How to download - GitHub](attachments/Readme/downloading_2.png)
 
 ### From Forgejo (KemoNine's personal site mirror)
 
-![How to download - Forgejo](Notes/attachments/downloading.png)
+![How to download - Forgejo](attachments/Readme/downloading.png)
 
 ## Screenshots
 
 ### Main Vault View
-![Main Vault View](Notes/attachments/Vault%20Screenshot%201.png)
+![Main Vault View](attachments/Readme/Vault%20Screenshot%201.png)
 
 ### KemoNine Zentangle View
-![KemoNine Zentangle View](Notes/attachments/Vault%20Screenshot%202.png)
+![KemoNine Zentangle View](attachments/Readme/Vault%20Screenshot%202.png)
 
 ### KemoNine Coloring View
-![KemoNine Coloring View](Notes/attachments/Vault%20Screenshot%203.png)
+![KemoNine Coloring View](attachments/Readme/Vault%20Screenshot%203.png)

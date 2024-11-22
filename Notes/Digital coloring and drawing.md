@@ -7,7 +7,7 @@ created_at: "2023-02-28"
 source: "Unknown"
 ---
 
-![](Notes/attachments/DSC02900-3.jpg)
+![](attachments/Digital%20coloring%20and%20drawing/DSC02900-3.jpg)
 
 ## Changelog {#changelog}
 
@@ -195,23 +195,23 @@ Hopefully you can do the same.
 
 ### Complete Coloring Page {#complete-coloring-page}
 
-![](Notes/attachments/Complete---Fox-1.png)
+![](attachments/Digital%20coloring%20and%20drawing/Complete---Fox-1.png)
 
 ### In Progress Coloring Page {#in-progress-coloring-page}
 
-![](Notes/attachments/Blending---On-Top---Fox.png)
+![](attachments/Digital%20coloring%20and%20drawing/Blending---On-Top---Fox.png)
 
 ### Palate Layer {#palate-layer}
 
-![](Notes/attachments/Palate-Layer---Fox.png)
+![](attachments/Digital%20coloring%20and%20drawing/Palate-Layer---Fox.png)
 
 ### Blending - Darken {#blending-darken}
 
-![](Notes/attachments/Blending---Darken---Layer---Fox.png)
+![](attachments/Digital%20coloring%20and%20drawing/Blending---Darken---Layer---Fox.png)
 
 ### Blending - Normal {#blending-normal}
 
-![](Notes/attachments/Blending---Normal---Layer---Fox.png)
+![](attachments/Digital%20coloring%20and%20drawing/Blending---Normal---Layer---Fox.png)
 
 ## Advanced Coloring With Krita {#advanced-coloring-with-krita}
 
@@ -227,7 +227,7 @@ The below sections layout how I setup Krita overall and I leave the practical im
 
 ## Important Note
 
-Please see [Krita Quick Reference](Notes/Krita%20Quick%20Reference.md) instead of the below for current information on using Krita with mobile devices, particularly Android devices.
+Please see [Krita Quick Reference](Krita%20Quick%20Reference.md) instead of the below for current information on using Krita with mobile devices, particularly Android devices.
 
 The below is the original blog post information which may have 'skewed out of date' over time compared to the `Krita Quick Reference` note stored in this vault.
 
