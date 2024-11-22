@@ -1,9 +1,0 @@
-{
-  "tagPageDir": "_Tags/",
-  "frontmatterQueryProperty": "tag-page-query",
-  "nestedSeparator": "_",
-  "bulletedSubItems": true,
-  "includeLines": true,
-  "autoRefresh": true,
-  "fullLinkName": false
-}

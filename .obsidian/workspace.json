@@ -10,16 +10,53 @@
           {
             "id": "7d5274162457b1c7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Readme.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "073b99b42ebd2844",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/__Using The Vault.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "__Using The Vault"
+            }
+          },
+          {
+            "id": "ac5db91574f2a15e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "__Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +93,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +136,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Readme"
             }
           },
           {
@@ -105,7 +150,9 @@
                 "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Readme"
             }
           },
           {
@@ -116,7 +163,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +175,9 @@
               "type": "outline",
               "state": {
                 "file": "Readme.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme"
             }
           },
           {
@@ -138,7 +189,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -160,11 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7d5274162457b1c7",
+  "active": "073b99b42ebd2844",
   "lastOpenFiles": [
-    "Notes/__Using The Vault.md",
     "Readme.md",
+    "Notes/__Using The Vault.md",
     "__Dashboard.md",
+    "Notes/_Troubleshooting The Vault.md",
     "Notes/Obtaining Source Material.md",
     "Notes/Obsidian ToC.md",
     "Notes/Krita Quick Reference.md",
@@ -177,7 +231,6 @@
     "Notes/Convert PDF Coloring Pages.md",
     "Notes/Color Palette Generator.md",
     "Notes/Android Drawing Apps.md",
-    "Notes/_Troubleshooting The Vault.md",
     "_Gallery - Favorites.md",
     "Notes/attachments/Imagepipe_360.jpg",
     "Notes/attachments/Imagepipe_359.jpg",
