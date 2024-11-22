@@ -223,8 +223,7 @@
       "zk-prefixer:Create new unique note": true,
       "command-palette:Open command palette": false,
       "smart-random-note:Open Random Note from Search": true,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
   "active": "7b253e232b4d6bfd",
