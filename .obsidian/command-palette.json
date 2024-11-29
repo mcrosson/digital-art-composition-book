@@ -3,6 +3,8 @@
     "dashboard-navigator:navigator",
     "dashboard-navigator:dashboard",
     "smart-random-note:open-tagged-random-note",
+    "consistent-attachments-and-links:check-consistency",
+    "consistent-attachments-and-links:reorganize-vault",
     "obsidian-notes-from-template:coloring page",
     "obsidian-notes-from-template:dot to dot",
     "obsidian-notes-from-template:zentangle",
