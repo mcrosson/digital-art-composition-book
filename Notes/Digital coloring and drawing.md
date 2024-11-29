@@ -7,7 +7,7 @@ created_at: "2023-02-28"
 source: "Unknown"
 ---
 
-![](attachments/Digital%20coloring%20and%20drawing/DSC02900-3.jpg)
+![](attachments/DSC02900-3.jpg)
 
 ## Changelog {#changelog}
 
@@ -195,23 +195,23 @@ Hopefully you can do the same.
 
 ### Complete Coloring Page {#complete-coloring-page}
 
-![](attachments/Digital%20coloring%20and%20drawing/Complete---Fox-1.png)
+![](attachments/Complete---Fox-1.png)
 
 ### In Progress Coloring Page {#in-progress-coloring-page}
 
-![](attachments/Digital%20coloring%20and%20drawing/Blending---On-Top---Fox.png)
+![](attachments/Blending---On-Top---Fox.png)
 
 ### Palate Layer {#palate-layer}
 
-![](attachments/Digital%20coloring%20and%20drawing/Palate-Layer---Fox.png)
+![](attachments/Palate-Layer---Fox.png)
 
 ### Blending - Darken {#blending-darken}
 
-![](attachments/Digital%20coloring%20and%20drawing/Blending---Darken---Layer---Fox.png)
+![](attachments/Blending---Darken---Layer---Fox.png)
 
 ### Blending - Normal {#blending-normal}
 
-![](attachments/Digital%20coloring%20and%20drawing/Blending---Normal---Layer---Fox.png)
+![](attachments/Blending---Normal---Layer---Fox.png)
 
 ## Advanced Coloring With Krita {#advanced-coloring-with-krita}
 

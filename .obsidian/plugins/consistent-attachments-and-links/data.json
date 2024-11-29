@@ -1,5 +1,5 @@
 {
-  "autoCollectAttachments": false,
+  "autoCollectAttachments": true,
   "changeNoteBacklinksAlt": true,
   "consistencyReportFile": "consistency-report.md",
   "deleteAttachmentsWithNote": true,
@@ -7,14 +7,15 @@
   "deleteExistFilesWhenMoveNote": false,
   "ignoreFiles": [
     "consistency\\-report\\.md",
-    ".*attachments\\.md",
-    ".*Source\\ Materials\\.md"
+    ".*attachment.*\\.md",
+    ".*Source\\ Material.*\\.md"
   ],
   "ignoreFolders": [
     ".git/",
     ".obsidian/",
     "_Templates/",
-    "Attic/"
+    "Attic/",
+    "Resources/"
   ],
   "moveAttachmentsWithNote": true,
   "showWarning": false,

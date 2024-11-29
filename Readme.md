@@ -27,19 +27,19 @@ This project is licensed under the [Creative Commons BY-NC 4.0 International](ht
 
 ### From GitHub (the main site)
 
-![How to download - GitHub](attachments/Readme/downloading_2.png)
+![How to download - GitHub](attachments/downloading_2.png)
 
 ### From Forgejo (KemoNine's personal site mirror)
 
-![How to download - Forgejo](attachments/Readme/downloading.png)
+![How to download - Forgejo](attachments/downloading.png)
 
 ## Screenshots
 
 ### Main Vault View
-![Main Vault View](attachments/Readme/Vault%20Screenshot%201.png)
+![Main Vault View](attachments/Vault%20Screenshot%201.png)
 
 ### KemoNine Zentangle View
-![KemoNine Zentangle View](attachments/Readme/Vault%20Screenshot%202.png)
+![KemoNine Zentangle View](attachments/Vault%20Screenshot%202.png)
 
 ### KemoNine Coloring View
-![KemoNine Coloring View](attachments/Readme/Vault%20Screenshot%203.png)
+![KemoNine Coloring View](attachments/Vault%20Screenshot%203.png)

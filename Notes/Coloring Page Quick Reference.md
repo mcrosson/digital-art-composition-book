@@ -34,6 +34,6 @@ source: N/A
 
 ## Screenshots
 
-![](attachments/Coloring%20Page%20Quick%20Reference/2024-09-13_16-56.png)
+![](attachments/2024-09-13_16-56.png)
 
-![](attachments/Coloring%20Page%20Quick%20Reference/2024-09-13_16-56_1.png)
+![](attachments/2024-09-13_16-56_1.png)

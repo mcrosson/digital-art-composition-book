@@ -18,4 +18,4 @@ title: **Table of Contents**
 
 To see a table of contents using built in methods:
 
-![](attachments/Obsidian%20ToC/Obsidian%20ToC.png)
+![](attachments/Obsidian%20ToC.png)

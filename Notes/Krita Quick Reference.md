@@ -143,12 +143,12 @@ The below are the input settings KemoNine uses within Krita
 
 ### Main Krita View With File Open
 
-![](attachments/Krita%20Quick%20Reference/Imagepipe_359.jpg)
+![](attachments/Imagepipe_359.jpg)
 
 ### Canvas View
 
-![](attachments/Krita%20Quick%20Reference/Imagepipe_360.jpg)
+![](attachments/Imagepipe_360.jpg)
 
 ### Pop-up Palette
 
-![](attachments/Krita%20Quick%20Reference/Imagepipe_361.jpg)
+![](attachments/Imagepipe_361.jpg)

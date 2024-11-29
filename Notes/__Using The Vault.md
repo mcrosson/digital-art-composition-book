@@ -32,11 +32,11 @@ If you are the type of person who would go through the trouble of cutting or tea
 
 ## Automatic Attachment Management
 
-This vault is setup to automatically manage attachments. It is configured to ensure all note attachments are stored in the appropriate `attachments` directory under a sub-folder with the same name as the note.
+This vault is setup to automatically manage attachments. It is configured to ensure all note attachments are stored in the appropriate `attachments` directory.
 
 This will automatically move attachments and update links when a note is moved between folders. This is especially helpful as a note moves through the various state/status folders.
 
-You can disable this functionality by disabling the `Consistent Attachments and Links` and  `Custom Attachment Location` community plugins.
+You can disable this functionality entirely by disabling the `Consistent Attachments and Links` community plugin. You can also disable the plugin's `Auto Collect Attachments` setting to manually manage attachments if you don't want attachments automatically updated when notes are moved to a new folder.
 
 ## Folder Indexes
 
@@ -111,7 +111,7 @@ The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes
 - Prep downloaded files
 	- Convert source material to art app native format
 	- Setup any necessary layers
-		- See [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md) for coloring pages
+		- See [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md) for coloring pages
 		- See [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md) for dot to dot pages
 - Create page for artwork using the appropriate template
 - Link files to new artwork page as appropriate
@@ -126,7 +126,7 @@ The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes
 - [Android Drawing Apps](Android%20Drawing%20Apps.md)
 - [Krita Quick Reference](Krita%20Quick%20Reference.md)
 - [Color Palette Generator](Color%20Palette%20Generator.md)
-- [Coloring Page Quick Reference](Notes/Coloring%20Page%20Quick%20Reference.md)
+- [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md)
 - [Dot to Dot Quick Reference](Dot%20to%20Dot%20Quick%20Reference.md)
 
 ## Enjoy
