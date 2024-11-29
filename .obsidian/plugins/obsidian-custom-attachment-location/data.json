@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "./attachments/${filename}",
   "autoRenameFiles": false,
-  "autoRenameFolder": false,
+  "autoRenameFolder": true,
   "convertImagesOnDragAndDrop": false,
   "convertImagesToJpeg": false,
   "deleteOrphanAttachments": false,
