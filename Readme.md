@@ -25,13 +25,9 @@ This project is licensed under the [Creative Commons BY-NC 4.0 International](ht
 
 ## Downloading the vault as a zip file
 
-### From GitHub (the main site)
+### From GitHub
 
-![How to download - GitHub](attachments/downloading_2.png)
-
-### From Forgejo (KemoNine's personal site mirror)
-
-![How to download - Forgejo](attachments/downloading.png)
+![How to download - GitHub](attachments/downloading_github.png)
 
 ## Screenshots
 
