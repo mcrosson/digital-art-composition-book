@@ -12,6 +12,11 @@
 - [Imagepipe_359.jpg](./Imagepipe_359.jpg)
 - [Imagepipe_360.jpg](./Imagepipe_360.jpg)
 - [Imagepipe_361.jpg](./Imagepipe_361.jpg)
+- [Krita-PDF-Cut-Layer.png](./Krita-PDF-Cut-Layer.png)
+- [Krita-PDF-import-options.png](./Krita-PDF-import-options.png)
+- [Krita-PDF-Missing-Color-Profile-Prompt.png](./Krita-PDF-Missing-Color-Profile-Prompt.png)
+- [Krita-PDF-Multiple-Layers.png](./Krita-PDF-Multiple-Layers.png)
+- [Krita-PDF-New-From-Clipboard.png](./Krita-PDF-New-From-Clipboard.png)
 - [Obsidian ToC.png](./Obsidian%20ToC.png)
 - [Palate-Layer---Fox.png](./Palate-Layer---Fox.png)
 
