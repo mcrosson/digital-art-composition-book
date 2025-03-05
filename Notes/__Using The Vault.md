@@ -18,17 +18,29 @@ There are a number of pinned tab to ensure users see the most useful information
 
 I do recommend keeping the `__Dashboard` tab pinned as it's a great starting point for using this vault, even when used heavily day to day.
 
-## A Note About Deletions
+## Deletions and Removing Content
+
+### A Note
 
 Due to the way the attachment folder indexes and automatic attachment management work: attachments may not be auto-deleted when deleting a note. This is a quirk with how the attachment folder indexes interact with the automatic attachment management setup.
 
 I do *not* consider this a problem.
 
-A paper comp book won't have content deleted, if anything: it'd be crossed out and still somewhat visible. To properly 'delete' something from a paper comp book, you'd need to cut or tear the page(s). I doubt many are going to that much trouble.
+### A different approach
+
+Instead of deleting content, consider that a paper comp book won't have content deleted, if anything: it'd be crossed out and still somewhat visible. To properly 'delete' something from a paper comp book, you'd need to cut or tear the page(s). I doubt many are going to that much trouble.
 
 Instead of deletes, there is an `Attic` folder where content can be moved out of visible scope but still available if you ever need to go back and reference it. This will allow you to achieve a similar work flow as 'crossing out' content in a paper comp book.
 
-If you are the type of person who would go through the trouble of cutting or tearing page(s) in a paper comp book, you can still delete a note and its attached files. You'll just need to delete both the note and folder with the attachments manually.
+### If you must
+
+If you are the type of person who would go through the trouble of cutting or tearing page(s) in a paper comp book, you can still delete a note and its attached files. You'll just need to delete both the note and any attachments that are not auto deleted.
+
+### The Trash
+
+This vault is setup to use the Obsidian internal trash folder and the `Trash Explorer` is setup to allow working with the trash folder more easily, particularly on mobile devices. If you delete content, it'll be moved to the trash folder. You'll need to empty the trash to permanently delete any files in the trash.
+
+This was setup as the 'delete' behavior in Obsidian is different depending on if you're using mobile or non-mobile apps and this vault aims to be consistent across all platforms. This was also setup to avoid the fact mobile 'delete', by default, hard deletes content without the ability to restore what was deleted.
 
 ## Automatic Attachment Management
 
