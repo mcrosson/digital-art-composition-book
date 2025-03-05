@@ -5,19 +5,19 @@
   "deleteAttachmentsWithNote": true,
   "deleteEmptyFolders": true,
   "deleteExistFilesWhenMoveNote": false,
-  "ignoreFiles": [
-    "consistency\\-report\\.md",
-    ".*attachment.*\\.md",
-    ".*Source\\ Material.*\\.md"
-  ],
-  "ignoreFolders": [
+  "moveAttachmentsWithNote": true,
+  "showBackupWarning": false,
+  "updateLinks": true,
+  "excludePaths": [
+    "/consistency\\-report\\.md$/",
+    "/.*attachment.*\\.md$/",
+    "/.*Source\\ Material.*\\.md$/",
     ".git/",
     ".obsidian/",
     "_Templates/",
     "Attic/",
-    "Resources/"
+    "Resources/",
+    "To Import/"
   ],
-  "moveAttachmentsWithNote": true,
-  "showWarning": false,
-  "updateLinks": true
+  "includePaths": []
 }
