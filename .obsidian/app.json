@@ -7,5 +7,6 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "livePreview": false,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "trashOption": "local"
 }

@@ -3,6 +3,7 @@
     "dashboard-navigator:navigator",
     "dashboard-navigator:dashboard",
     "smart-random-note:open-tagged-random-note",
+    "obsidian-trash-explorer:show-trash-explorer",
     "note-gallery:drop-database",
     "consistent-attachments-and-links:check-consistency",
     "consistent-attachments-and-links:reorganize-vault",
