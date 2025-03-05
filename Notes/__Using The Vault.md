@@ -83,6 +83,7 @@ If you would like to keep the folder index functionality for only a sub-set of d
 	- `Dot to Dot`: For dot to dot pages and related materials
 	- `Drawing`: For drawing and sketches
 	- `Ideas - Inspiration`: For ideas and inspiration tracking
+	- `To Import`: For quick sketches, Zentangle, etc that were created 'on the fly' and need dedicated entries created. This folder is intended to function as a slipbox
 	- `Zentangle`: For Zentangle and ZIA (Zentangle Inspired Art)
 - Various sub folders to help with organization of files
 	- `attachments`: For files that are attached to notes
