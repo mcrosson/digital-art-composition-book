@@ -124,6 +124,7 @@ The [Troubleshooting The Vault](_Troubleshooting%20The%20Vault.md) note includes
 
 - [Obtaining Source Material](Obtaining%20Source%20Material.md)
 - [Android Drawing Apps](Android%20Drawing%20Apps.md)
+- [Sketchbook Quick Reference](Sketchbook%20Quick%20Reference.md)
 - [Krita Quick Reference](Krita%20Quick%20Reference.md)
 - [Color Palette Generator](Color%20Palette%20Generator.md)
 - [Coloring Page Quick Reference](Coloring%20Page%20Quick%20Reference.md)

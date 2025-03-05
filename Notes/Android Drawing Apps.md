@@ -6,10 +6,12 @@ source: "N/A"
 
 ---
 - [Krita](https://play.google.com/store/apps/details?id=org.krita)
+	- Great for taming complexities
+	- Great for 'complex' and 'big' projects
 - [SketchPad](https://play.google.com/store/apps/details?id=com.kanishka_developer.SketchPad)
 	- Great for quick sketches
-	- Probably OK for doodling
-	- Probably OK for 'quick and dirty' Zentangle
+	- Great for doodling
+	- Great for 'quick and dirty' Zentangle
 - [Saber](https://saber.adil.hanney.org/)
 	- Good for PDF
 	- Has decent grids
