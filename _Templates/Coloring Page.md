@@ -39,8 +39,8 @@ title: **Table of Contents**
 ## Final Image
 embed_jpg_or_png
 
-## Krita Source
-embed_kra_file
+## Source
+embed_src_file
 
 ## Coloring Brush(es)
 - `brush_1`
