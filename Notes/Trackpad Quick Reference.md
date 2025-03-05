@@ -6,6 +6,12 @@ source: "N/A"
 created_at: 2024-09-14
 ---
 
+```table-of-contents
+title: **Table of Contents**
+```
+
+---
+
 ## General
 
 Setup according to desires and cross reference setup with Krita mouse canvas input settings as desired.

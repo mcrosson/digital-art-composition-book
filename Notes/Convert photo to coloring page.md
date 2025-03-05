@@ -5,27 +5,33 @@ created_at: "2023-02-27"
 source: "KemoNine Blog"
 ---
 
-## Sounds Cool, Is Tricky {#sounds-cool-is-tricky}
+```table-of-contents
+title: **Table of Contents**
+```
+
+---
+
+## Sounds Cool, Is Tricky
 
 Before getting into how to convert a photo into a coloring page, I'd like to point out a fundamental concern: this is _not_ easy and a mild PITA. It also deserves some manual cleanup to get best results. I recommend doing this only if you have time to try the process and focus on some of the subtleties while also converting a ton of photos.
 
 Like most forms of art, this one takes some practice to get desired results. I got disheartened early on but after running the process on tens of images I started getting a feel for what source images worked for conversion and as a more 'realistic' coloring page.
 
 
-## Example Gallery {#example-gallery}
+## Example Gallery
 
 If you'd like to see a number of my photographs run through conversion to coloring page, I've published a number of pages at <https://www.kemonine.photography/Coloring-Pages/n-cRk9Fj>
 
 
-## CRITICAL {#critical}
+## CRITICAL
 
 
-### Please note {#please-note}
+### Please note
 
 The following processes and procedures are a way to run the photo to coloring page conversion with [Krita](https://krita.org/). That said, the process should be generally the same in other image editing programs.
 
 
-## TLDR {#tldr}
+## TLDR
 
 This is the cheat sheet check list I use when converting pages. I recommend skipping this section for the full procedure in the following section(s) if you are new to this process.
 
@@ -40,7 +46,7 @@ This is the cheat sheet check list I use when converting pages. I recommend skip
 9.  Merge layers (ctrl - E)
 
 
-## Conversion Process {#conversion-process}
+## Conversion Process
 
 When I went digging for information I found plenty of guides for image editors and drawing apps that were _not_ Krita. The guides I found were for very common photo editing programs and apps but not for Krita. Thankfully every guide had a pretty consistent 'process' for converting photos to coloring pages.
 
